@@ -38,7 +38,7 @@ Este template foi criado como um item de portfólio para demonstrar habilidades 
 Feito por **Isaac**.
 
 -   **Portfólio:** [https://isaacverde.github.io/email-semanal-cinco/]
--   **LinkedIn:** [[](https://www.linkedin.com/in/isaac-santos-b50347302/)]
+-   **LinkedIn:** [linkedin](https://www.linkedin.com/in/isaac-santos-b50347302/)]
 -   **GitHub:** [[Isaac Verde](https://github.com/IsaacVerde)]
 
 
