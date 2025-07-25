@@ -37,10 +37,9 @@ Este template foi criado como um item de portfólio para demonstrar habilidades 
 
 Feito por **Isaac**.
 
--   **Portfólio:** [Link para seu Portfólio]
--   **LinkedIn:** [Link para seu LinkedIn]
--   **GitHub:** [@SEU-USUARIO]
+-   **Portfólio:** [https://isaacverde.github.io/email-semanal-cinco/]
+-   **LinkedIn:** [[Link para seu LinkedIn](https://www.linkedin.com/in/isaac-santos-b50347302/)]
+-   **GitHub:** [[@SEU-USUARIO](https://github.com/IsaacVerde)]
 
-## ❯ Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
