@@ -1,6 +1,6 @@
 # Template de E-mail Marketing Responsivo - Oferta Relâmpago
 
-[![Demonstração do Template de E-mail](capa.png)]
+<img src="capa.png" width="300">
 ## ❯ Sobre o Projeto
 
 Este projeto consiste em um template de e-mail marketing em HTML totalmente responsivo, criado para uma campanha promocional de "Oferta Relâmpago". O design foi desenvolvido com foco em um visual moderno (dark mode), um chamado para ação (CTA) claro e máxima compatibilidade entre os diferentes clientes de e-mail (Gmail, Outlook, Apple Mail, etc.).
