@@ -24,22 +24,9 @@ Este template foi criado como um item de portfólio para demonstrar habilidades 
 -   **HTML5**
 -   **CSS3 (Inline)**
 
-## ❯ Como Visualizar
-
-1.  Clone este repositório:
-    ```sh
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    ```
-2.  Navegue até a pasta do projeto.
-3.  Abra o arquivo `index.html` em qualquer navegador de sua preferência (Chrome, Firefox, etc.).
-
 ## ❯ Autor
 
 Feito por **Isaac**.
-
--   **Portfólio:** [https://isaacverde.github.io/email-semanal-cinco/]
--   **LinkedIn:** [linkedin](https://www.linkedin.com/in/isaac-santos-b50347302/)]
--   **GitHub:** [[Isaac Verde](https://github.com/IsaacVerde)]
 
 
 
